@@ -67,10 +67,10 @@ The dataset contains 365 rows, covering ad performance metrics for each day of 2
 
 ## 📈 Visualizations
 - **Conversion Rate Comparison**
-  ![Conversion Rate](image_link_here)
+  ![Conversion Rate](images/101.png)
 
 - **Click-Through Rate Distribution**
-  ![CTR Distribution](image_link_here)
+  ![CTR Distribution](images/102.png)
 
 ## 🚀 Future Work
 - **Personalized Campaigns:** Implement marketing strategies tailored to user demographics and behavior.
@@ -79,10 +79,3 @@ The dataset contains 365 rows, covering ad performance metrics for each day of 2
 
 ## 📜 Conclusion
 By leveraging A/B testing and data analytics, this project identifies Google Adwords as the more effective campaign for driving conversions. The insights gained can help businesses optimize their advertising strategies and improve ROI.
-
----
-
-💡 **Contributors:** [Your Name]  
-📌 **Repository:** [GitHub Repo Link]  
-📬 **Contact:** [Your Email]
-
