@@ -67,7 +67,7 @@ The dataset contains 365 rows, covering ad performance metrics for each day of 2
 
 ## 📈 Visualizations
 - **Conversion Rate Comparison**
-  ![Conversion Rate](images/Conversion_Rate.png)
+  ![Conversion Rate](images/Conversion_Rate_Comparison.png)
 
 - **Click-Through Rate Distribution**
   ![CTR Distribution](images/Click-Through_Rate_Distribution.png)
